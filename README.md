@@ -52,10 +52,4 @@ El script de JavaScript se encarga de:
 
 Este slider es compatible con navegadores web modernos y está optimizado para dispositivos móviles y de escritorio.
 
-## Contribuciones
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o realiza un pull request para sugerir cambios o mejoras.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
